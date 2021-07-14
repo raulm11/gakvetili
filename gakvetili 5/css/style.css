@@ -1,0 +1,64 @@
+.header {
+	padding: 20px;
+	position: sticky;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background-color: #F6F8F9;
+}
+.logo {
+	font-size: 18px;
+	vertical-align: middle;
+	color: #FA6980;
+	font-weight: bold;
+	margin-right: 92px;
+}
+.nav {
+	color: black;
+	opacity: 100%;
+	font-weight: bolder;
+	display: inline-block;
+}
+.qali {
+	vertical-align: middle;
+	margin-left: 40px; 
+	display: inline-block;
+}
+.navi {
+	display: inline-block;
+}
+.satauri {
+	width: 1025px;
+	height: 20px;
+	font-weight: 100;
+}
+.texti
+{
+	position: absolute;
+	margin-left: 93px;
+	margin-top: 0px;
+}
+.surati
+{
+	position: relative;
+	display: inline-block;
+}
+.satauri2 {
+	width: 770px;
+	height: 20px;
+	margin-bottom: 90px;
+
+}
+.surati1 {
+	display: inline-block;
+}
+.surati2 {
+	display: inline-block;
+}
+.dabla {
+	padding: 50px;
+	background-color: grey;
+}
+.ft {
+	display: inline-block;
+}
